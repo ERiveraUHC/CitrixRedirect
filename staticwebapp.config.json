@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/*",
-      "redirect": "https://unified.cloud.com",
+      "redirect": "https://accounts-dsauthweb.cloud.com/RjsAHabCcUiQ0FPHNJ7SEw/oidc/webview/CfDJ8E-2KYI_CoZMlMUoYLg2WbX4646SvnJPjvkCWqxwn06WKzXOor9Fv9kFbVyNK7yFzMrgiBrRLTukKfpgFs9OXG3ifnutuQL3RdRaV6KCw_V8XaBUB2J_L5jyxe2NsyXPHA?_id=webviewResponseId&_cx=&_rt=https%3A%2F%2Funifiedhc.cloud.com%2FCitrix%2FStoreWeb%2FExplicitAuth%2FBounce&_cs=vHbjk2UfGcipgopfWDQpbLgtB_JU2amTE5AAm_mg1fE-&_ps=true",
       "statusCode": 302
     }
   ]
