@@ -3,7 +3,7 @@
     {
       "route": "/*",
       "redirect": "https://unified.cloud.com",
-      "statusCode": 301
+      "statusCode": 302
     }
   ]
 }
